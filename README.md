@@ -1,7 +1,7 @@
 # Probability_Distributions
 Probability Distribution Implementation
 
-This repository contains the Python Implementation of Probability Distribution.
+This repository contains the simple Python Implementation/examples of Probability Distribution.
 
 1. Binomial Distribution
 2. Poisson Distribution
